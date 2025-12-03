@@ -1,4 +1,4 @@
-# KoELECTRA를 활용한 YouTube 악성 댓글 자동 탐지 및 건전성 분석 프로젝트
+# KoELECTRA를 활용한 YouTube 악성 댓글 자동 탐지와 필터링 및 건전성 분석 프로젝트
 
 ## 1. 개요
 
